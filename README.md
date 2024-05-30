@@ -1,33 +1,49 @@
-# Privacy Policy
+# Boston Bus Tracker Privacy Policy
 
-## 1. Introduction
-Thank you for using our Bus Arrival Time Inquiry application! We are committed to protecting your privacy and ensuring the proper handling of your personal information. Please read this Privacy Policy carefully before using the application to understand how we collect and use information.
+## Privacy Policy
 
-## 2. Information Collection
+Welcome to Boston Bus Tracker. This privacy policy aims to help you understand how we collect, use, share, and protect your information. We value your privacy and are committed to safeguarding your information. Please read this policy carefully to understand how we handle your data.
 
-### 2.1 Provided Information
-When using our application, you are only required to provide your device ID. No other personal or device information is necessary.
+## Developer Information
 
-### 2.2 Automatically Collected Information
-Our application does not automatically collect any personal or device information other than the device ID.
+**Developer**: Boston Bus Tracker Team
+**Company**: Boston Bus Tracker Inc.
+**Contact Email**: wuchaoyu122@gmail.com
 
-##3. Use of Information
-We only use the device ID you provide to deliver, maintain, and improve our application. This information will never be used to identify your personal identity.
+## Data Collection and Usage
 
-## 4. Information Sharing
-We will never sell, lease, or share your personal or device information with third parties.
+We do not collect any personal information. The only data we collect is the device ID for the purpose of displaying advertisements.
 
-## 5. Security
-We take appropriate security measures to protect your device ID from unauthorized access, use, or disclosure.
+## Device ID:
 
-## 6. Cookies and Similar Technologies
-Our application does not use cookies or similar technologies to collect personal information.
+- Purpose: Display relevant advertisements.
+- Collection Method: Automatically collects the device ID when you use the app.
+- Sharing: Shared with our advertising partners to serve ads.
 
-## 7. Changes to Privacy Policy
-We reserve the right to modify this Privacy Policy at any time. Any changes will be notified within the application and posted on this page before they take effect.
+## Data Security Procedures
 
-## 8. Contact Us
-If you have any questions or concerns about this Privacy Policy or your personal information, please contact us at:
+We employ a variety of security technologies and procedures to help protect your device ID from unauthorized access, use, or disclosure. These measures include, but are not limited to:
 
-Email: wuchaoyu122@gmail.com
-Thank you for using our Bus Arrival Time Inquiry application!
+- Encryption: Encrypting the device ID during transmission.
+- Access Control: Restricting access to the device ID to employees and contractors who need it to provide our services.
+
+## Data Retention and Deletion Policy
+
+We retain the device ID only as long as necessary to fulfill the purpose of displaying advertisements. The device ID is retained for the duration of your use of the app and will be securely deleted once it is no longer needed or upon your request.
+
+## User Rights
+
+You have the right to request the deletion of your device ID. To exercise this right or if you have any privacy-related questions, please contact us at:
+
+Contact Email: wuchaoyu122@gmail.com
+
+## Policy Updates
+
+We may update this privacy policy from time to time. Updated policies will be notified through our website and app. Please review this policy periodically to stay informed about how we are protecting your data.
+
+Thank you for using Boston Bus Tracker. If you have any questions or concerns about this privacy policy, please feel free to contact us.
+
+This privacy policy can be accessed via the following link in a standard browser without the need for any plugins or special programs:
+Boston Bus Tracker Privacy Policy
+
+Effective Date: May 21, 2024
